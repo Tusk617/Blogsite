@@ -13,6 +13,10 @@ export const Landing = () => {
             </div>
             <div class="PortfolioandBlog">
                 <h2>Portfolio</h2>
+                <a href="#">Essentialism</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a href="#">Human Rights First</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 <h2>Blog</h2>
             </div>
         </div>
